@@ -1,1 +1,1 @@
-# PredicaoDiabete_RegLog
+# Predição de Diabetes com Regressão Logística e Gradiente Descendente
